@@ -1,6 +1,6 @@
 {
     "name": "متجر الأمل",
-    "short_name": "الأمل",
+    "short_name": "متجر الأمل",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
@@ -9,12 +9,12 @@
       {
         "src": "icons/icon-192x192.png",
         "sizes": "192x192",
-        "type": "logo/Logo_Maker_com.ist.logomaker_Sat_Dec_21_16_50_58_GMT_02_00_2024_1734792658602.png"
+        "type": "image/Logo_Maker_com.ist.logomaker_Sat_Dec_21_16_50_58_GMT_02_00_2024_1734792658602.png"
       },
       {
         "src": "icons/icon-512x512.png",
         "sizes": "512x512",
-        "type": "logo/Logo_Maker_com.ist.logomaker_Sat_Dec_21_16_50_58_GMT_02_00_2024_1734792658602 (1).png"
+        "type": "image/Logo_Maker_com.ist.logomaker_Sat_Dec_21_16_50_58_GMT_02_00_2024_1734792658602 (1).png"
       }
     ]
   }
